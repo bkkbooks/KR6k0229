@@ -1,0 +1,440 @@
+canonical_identifier: bkk:krp/KR6k0229/X/v1
+canonical_location: https://kanripo.org/bkk/KR6k0229/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 二部僧授戒儀式
+  identifiers:
+    krp: KR6k0229
+    cbeta: X60n1134
+    cbeta_old_id: X60n1134
+    authorityid: CA0000814
+    json_key: X1134
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X60/X60n1134.xml
+    old_id: X60n1134
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0229_000-X.yaml, hash: 'sha256:ba9f9d4b4b2d8c2c0178e3d17f0b08969400ea831af6a043d928658662eaf095'}
+  - {seq: 1, filename: KR6k0229_001-X.yaml, hash: 'sha256:f4f18edcccc915f4c209b11e3982b8447ec31774dd79054e0dfe30eb5dfa1fb7'}
+  - {seq: 2, filename: KR6k0229_002-X.yaml, hash: 'sha256:5ca3caee77f1a32b6d789b4456989775f39e002f99930b4629cd01eb8d085501'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0229_000-X.markers.yaml, hash: 'sha256:3909cbb3145fe8b2d9a05e8a1147ec4882a2884e69eb96bd29ce0e7a4db99729'}
+  - {seq: 1, role: markers, filename: assets/KR6k0229_001-X.markers.yaml, hash: 'sha256:df962e7468ef1d2e77138d7aa515c759183a60f08cd380c5e8f0bd5718a0052b'}
+  - {seq: 2, role: markers, filename: assets/KR6k0229_002-X.markers.yaml, hash: 'sha256:51ec97a9164d86173b700d58179fee8774a97b9871c3a226f2ac359399b98920'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6k0229_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1134-A 二部僧授戒儀式緣起
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6k0229_X_000-mulu-2
+    span:
+    - front
+    - 784
+    - 784
+  label: 二部僧授戒儀式凡例
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0229_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 6698
+  label: 二部僧授戒儀式卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0229_X_001-mulu-1
+    span:
+    - body
+    - 13
+    - 13
+  label: 授本法尼戒具十八法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0229_X_001-mulu-2
+    span:
+    - body
+    - 22
+    - 22
+  label: 初淨壇敷座法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0229_X_001-mulu-3
+    span:
+    - body
+    - 209
+    - 209
+  label: 二鳴椎集眾法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0229_X_001-mulu-4
+    span:
+    - body
+    - 1150
+    - 1150
+  label: 三僧中請師法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0229_X_001-mulu-5
+    span:
+    - body
+    - 1833
+    - 1833
+  label: 四祝延聖壽法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0229_X_001-mulu-6
+    span:
+    - body
+    - 1970
+    - 1970
+  label: 五讚禮三寶法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0229_X_001-mulu-7
+    span:
+    - body
+    - 2095
+    - 2095
+  label: 六陞壇白眾法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0229_X_001-mulu-8
+    span:
+    - body
+    - 2709
+    - 2709
+  label: 七請慈加護法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0229_X_001-mulu-9
+    span:
+    - body
+    - 3386
+    - 3386
+  label: 九僧集約界法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0229_X_001-mulu-10
+    span:
+    - body
+    - 3544
+    - 3544
+  label: 十差教授師法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0229_X_001-mulu-11
+    span:
+    - body
+    - 3605
+    - 3605
+  label: 十一教授師出眾問難法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0229_X_001-mulu-12
+    span:
+    - body
+    - 4284
+    - 4284
+  label: 十二白召人眾法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0229_X_001-mulu-13
+    span:
+    - body
+    - 4472
+    - 4472
+  label: 十三從僧乞戒法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0229_X_001-mulu-14
+    span:
+    - body
+    - 4684
+    - 4684
+  label: 十四戒師單白法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0229_X_001-mulu-15
+    span:
+    - body
+    - 4786
+    - 4786
+  label: 十五正問難遮法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0229_X_001-mulu-16
+    span:
+    - body
+    - 5025
+    - 5025
+  label: 十六開道發心法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0229_X_001-mulu-17
+    span:
+    - body
+    - 5493
+    - 5493
+  label: 十七正授戒體法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0229_X_001-mulu-18
+    span:
+    - body
+    - 6508
+    - 6508
+  label: 十八本法尼往大僧中受戒法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0229_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 7496
+  label: 二部僧授戒儀式卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0229_X_002-mulu-1
+    span:
+    - body
+    - 13
+    - 13
+  label: 正授本法尼大戒具十八法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0229_X_002-mulu-2
+    span:
+    - body
+    - 24
+    - 24
+  label: 初先陳乞戒法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0229_X_002-mulu-3
+    span:
+    - body
+    - 359
+    - 359
+  label: 二敷設壇儀法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0229_X_002-mulu-4
+    span:
+    - body
+    - 484
+    - 484
+  label: 三鳴椎集眾法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0229_X_002-mulu-5
+    span:
+    - body
+    - 983
+    - 983
+  label: 四正明請師法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0229_X_002-mulu-6
+    span:
+    - body
+    - 1877
+    - 1877
+  label: 五祝延聖壽法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0229_X_002-mulu-7
+    span:
+    - body
+    - 1995
+    - 1995
+  label: 六讚禮三寶法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0229_X_002-mulu-8
+    span:
+    - body
+    - 2069
+    - 2069
+  label: 七陞壇白眾法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0229_X_002-mulu-9
+    span:
+    - body
+    - 2675
+    - 2675
+  label: 七請慈加護法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0229_X_002-mulu-10
+    span:
+    - body
+    - 3334
+    - 3334
+  label: 十僧集問和法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0229_X_002-mulu-11
+    span:
+    - body
+    - 3450
+    - 3450
+  label: 十一白召乞戒法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0229_X_002-mulu-12
+    span:
+    - body
+    - 3774
+    - 3774
+  label: 十二單白問難法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0229_X_002-mulu-13
+    span:
+    - body
+    - 4209
+    - 4209
+  label: 十三開道發心法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0229_X_002-mulu-14
+    span:
+    - body
+    - 4808
+    - 4808
+  label: 十四正受戒體法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0229_X_002-mulu-15
+    span:
+    - body
+    - 5354
+    - 5354
+  label: 十五示記時節法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0229_X_002-mulu-16
+    span:
+    - body
+    - 5460
+    - 5460
+  label: 十六傳授戒相法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0229_X_002-mulu-17
+    span:
+    - body
+    - 6327
+    - 6327
+  label: 十七後說四依法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0229_X_002-mulu-18
+    span:
+    - body
+    - 6808
+    - 6808
+  label: 十八回向出壇法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0229_X_002-mulu-19
+    span:
+    - body
+    - 7146
+    - 7146
+  label: No. 1134-B 䟦
+  type: mulu
+  level: 1
+hash: sha256:d157d8eba79ae3c91a60b75cd7c18958bb053dc303c00f0e898428de145c5d6e
