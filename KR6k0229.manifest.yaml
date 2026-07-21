@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6k0229_000.yaml, hash: 'sha256:7b5d9b859ff70275ab151c400253c4c090e0b39625224476f2456d1b2a708de7'}
+  - {seq: 0, filename: KR6k0229_000.yaml, hash: 'sha256:e41a72d7f78583e8901b7285c23a40472e91f8716a5817745c92b2141dab12a1'}
   - {seq: 1, filename: KR6k0229_001.yaml, hash: 'sha256:8b9242b9b574aaaa6c40cd77d86a42b3e44b480aebcc0b3cdf4e8160a90b31e1'}
   - {seq: 2, filename: KR6k0229_002.yaml, hash: 'sha256:8561d3257e2f3f486eb482177eb701dade3946c1b546c1f5dc81364d76912316'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6k0229_000.markers.yaml, hash: 'sha256:83dac5574b211d181ea9113523e1d7a3c1ab117f7b0d9437be3f2b251d02efd2'}
+  - {seq: 0, role: markers, filename: assets/KR6k0229_000.markers.yaml, hash: 'sha256:af425ff4b5d4fd776a9ca8fc78085fca0df2c77558c481f9acdcc4bb6137908a'}
   - {seq: 1, role: markers, filename: assets/KR6k0229_001.markers.yaml, hash: 'sha256:101bd8ff33183413bf145315f98eb93ddd6556ef7f3a570595b465d849e2017e'}
   - {seq: 2, role: markers, filename: assets/KR6k0229_002.markers.yaml, hash: 'sha256:81ba338f8443a9c1d3a53d56134372c32ffa168f22f1db64debb94e7531ff56c'}
 table_of_contents:
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6k0229_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1134-A 二部僧授戒儀式緣起
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6k0229_X_000-mulu-2
     span:
-    - front
+    - body
     - 784
     - 784
   label: 二部僧授戒儀式凡例
@@ -439,7 +439,7 @@ table_of_contents:
   label: No. 1134-B 䟦
   type: mulu
   level: 1
-hash: sha256:79b9d91e82d4c03ef35ba111aa185ce936c8c7a8c4644e78221f37b02485bb73
+hash: sha256:63e326a926b6e9a4c5bb30dd2a52253801272f3e3feb0a55bb244669d7008dbb
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
